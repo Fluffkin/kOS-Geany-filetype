@@ -1,5 +1,6 @@
 # kOS-Geany-filetype
-A crude syntax highlighter for kOS scripts in Geany
+A crude syntax highlighter for the Kerbal mod 'kOS' scripts [http://ksp-kos.github.io/KOS_DOC/contents.html] in the Geany editor [http://www.geany.org/]
+
 
 # Install:
 Put the filetypes.kOS.conf file in the relevant geany directory.
